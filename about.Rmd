@@ -1,0 +1,16 @@
+## Author
+
+- **Name:** Avinav Parashar
+- **Email:** avinavp2@illinois.edu
+
+## Purpose
+
+This application is designed to provide a comprehensive overview of Illinois Football's performance against its opponents. It presents a graph of all Illinois Football games and a table displaying the results of these games against other teams. This information can be used by fans of Illinois Football to track the team's progress and performance over time. Additionally, the application can be a useful resource for media and journalists covering Illinois Football, providing them with up-to-date and accurate information about the team's results.
+
+## Data 
+
+The data included is a list of every known Fighting Illini football game results since 1892, including location, homecoming, national bowl information, results, specific dates, opponents, and of course point totals. 
+
+## References
+
+- [wadefagen's Useful Datasets](https://github.com/wadefagen/datasets)
